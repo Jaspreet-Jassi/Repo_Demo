@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="600" started-at="2019-05-23T02:17:54Z" finished-at="2019-05-23T02:17:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="600" started-at="2019-05-23T02:17:54Z" finished-at="2019-05-23T02:17:55Z">
+      <class name="com.facebook.testcases.TestCases">
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.facebook.testcases.TestCases@1f3ddb1]" name="method1" is-config="true" duration-ms="22030" started-at="2019-05-23T02:17:32Z" finished-at="2019-05-23T02:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:com.facebook.testcases.TestCases@1f3ddb1]" name="method2" duration-ms="550" started-at="2019-05-23T02:17:54Z" finished-at="2019-05-23T02:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:com.facebook.testcases.TestCases@1f3ddb1]" name="method3" is-config="true" duration-ms="0" started-at="2019-05-23T02:17:55Z" finished-at="2019-05-23T02:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- com.facebook.testcases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+url = https://www.facebook.com/
+browser = chrome
+sysprop_1 = webdriver.chrome.driver
+sysprop_2 = D://jassi//selenium_jassi//chromedriver//chromedriver.exe
+username = admin
+password = admin

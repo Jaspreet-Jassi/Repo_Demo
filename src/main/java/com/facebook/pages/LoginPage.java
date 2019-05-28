@@ -7,7 +7,7 @@ import com.facebook.testbase.TestBase;
 
 public class LoginPage extends TestBase
 {
-	//changes on github
+	//changes on github-- changed again
 	@FindBy(id="email")
 	WebElement userEmail;
 	
